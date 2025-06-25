@@ -1,4 +1,8 @@
 # 👋 Hallo, ich bin Sebastian
+---
+
+> *„Build things you’d actually use – and then make them nicer than they need to be.“*
+
 
 **IT-Systemelektroniker** | **Mobile App Developer in Weiterbildung** | **Fotograf mit Code-Fokus**
 
@@ -79,7 +83,4 @@ Echte Projekte, echte Nutzer:innen und echtes Feedback.
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-hufeld/)  
 🧾 Lebenslauf & weitere Infos → einfach anschreiben!
 
----
-
-> *„Build things you’d actually use – and then make them nicer than they need to be.“*
 
