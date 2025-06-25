@@ -54,7 +54,7 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ---
 
-## 📱 Projekte (Auswahl)
+## 📱 Bisherige Projekte
 
 ### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
 SwiftUI · MVVM · Firebase  
