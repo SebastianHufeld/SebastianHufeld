@@ -1,5 +1,4 @@
 # 👋 Hallo, ich bin Sebastian
----
 
 > *„Build things you’d actually use – and then make them nicer than they need to be.“*
 
