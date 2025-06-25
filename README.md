@@ -56,7 +56,7 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ## 📱 Projekte (Auswahl)
 
-### 🔍 Phindr – Die Fotolocation-App  
+### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
 SwiftUI · MVVM · Firebase  
 Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.    
 👉 [Code auf GitHub](#)
