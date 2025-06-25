@@ -39,7 +39,6 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A63D2?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎨 UX / UI & Design
 ![Human Interface Guidelines](https://img.shields.io/badge/HIG-000000?style=for-the-badge)
