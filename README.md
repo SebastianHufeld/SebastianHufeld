@@ -64,7 +64,7 @@ Ein Spiel für den Terminal, welches textbasiert ist.
 
 ### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
 **SwiftUI · MVVM · Firebase**  
-Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.  
+Phindr ist die All-in-One-App für Modelle und Fotografen – zum Finden, Bewerten und Planen von Shootings, egal wo du bist.  
 👉 [Code auf GitHub](https://github.com/SebastianHufeld/Phindr)
 
 
