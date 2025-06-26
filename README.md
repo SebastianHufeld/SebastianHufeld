@@ -61,7 +61,6 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 Ein Spiel für den Terminal, welches textbasiert ist.  
 👉 [Code auf GitHub](https://github.com/SebastianHufeld/RPG_Abschlussprojekt_Modul_2)
 
----
 
 ### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
 **SwiftUI · MVVM · Firebase**  
