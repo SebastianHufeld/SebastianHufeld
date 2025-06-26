@@ -10,7 +10,7 @@
 ## 🚀 Über mich
  
 Hey! Ich bin Sebastian, 32 Jahre alt, aktuell in einer Weiterbildung zum Mobile App Developer (iOS & Android).  
-Früher war ich technischer Ansprechpartner bei verschiedenen Firmen – heute entwickle ich Apps mit SwiftUI und Kotlin.  
+Früher war ich technischer Ansprechpartner bei verschiedenen Firmen – heute entwickle ich Apps mit SwiftUI und Jetpack Compose.  
 Kreativität war schon immer mein Ding – egal ob als Fotograf oder Programmierer. Jetzt kombiniere ich Technik & Ästhetik in der App-Entwicklung.
 
 Mein Ziel? **Apps bauen, die nicht nur funktionieren, sondern Spaß machen.**  
