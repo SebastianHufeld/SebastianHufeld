@@ -73,7 +73,7 @@ Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten 
 ## 📜 Zertifizierungen
 
 - ✅ IHK-Zertifikat „iOS Developer“ – **06.06.2025**  
-- 🛠️ Aktuell im Android-Kurs bei **Syntax Institute**
+- 🛠️ Aktuell im Android-Modul bei **Syntax Institute**
 
 ---
 
