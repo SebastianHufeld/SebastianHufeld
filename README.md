@@ -56,17 +56,18 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ## 📱 Bisherige Projekte
 
-### 🎮 RPG Konsolenprogramm - Der Kampf gegen Malvortas, dem Unbesiegten
-Swift
-Ein Spiel für den Terminal, welches Textbasiert ist.
-    
+### 🎮 RPG Konsolenprogramm – Der Kampf gegen Malvortas, dem Unbesiegten  
+**Swift**  
+Ein Spiel für den Terminal, welches textbasiert ist.  
 👉 [Code auf GitHub](https://github.com/SebastianHufeld/RPG_Abschlussprojekt_Modul_2)
 
+---
 
 ### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
-SwiftUI · MVVM · Firebase  
-Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.    
+**SwiftUI · MVVM · Firebase**  
+Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.  
 👉 [Code auf GitHub](https://github.com/SebastianHufeld/Phindr)
+
 
 ---
 
