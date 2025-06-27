@@ -26,7 +26,6 @@ Always with clean code, good UX, and a touch of humor.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge)
 ![SwiftData](https://img.shields.io/badge/SwiftData-0A84FF?style=for-the-badge)
-![Combine](https://img.shields.io/badge/Combine-6E6E6E?style=for-the-badge)
 
 ### 🤖 Android Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
